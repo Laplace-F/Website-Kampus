@@ -1,7 +1,7 @@
 <?php
 
 $host = 'localhost';
-$dbname = 'kampusdb';
+$dbname = 'u629342613_kampusdb(1)';
 $username = 'root'; // Ganti sesuai dengan username database Anda
 $password = ''; // Ganti sesuai dengan password database Anda
 
