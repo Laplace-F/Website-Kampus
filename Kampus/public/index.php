@@ -16,7 +16,7 @@ if (isset($_SESSION['user_role'])) {
             break;
         default:
             session_destroy();
-            header('Location: login.php');
+            header('Location: public/login.php');
             exit();
     }
 } else {
